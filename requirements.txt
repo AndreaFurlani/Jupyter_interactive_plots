@@ -1,0 +1,5 @@
+numpy>=1.21.6
+pandas>=1.3.5
+bokeh>=2.4.3
+import_ipynb>=0.1.4
+intermine>=1.13.0
